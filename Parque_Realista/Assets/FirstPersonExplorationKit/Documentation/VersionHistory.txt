@@ -1,0 +1,19 @@
+First Person Exploration Kit Version History
+
+v1.2:
+----
+-Fixed issue where Pickup objects defaulted to infinite Put Back range. Now object respects "interaction range" for both pick up and put back actions.
+-Added support for Secondary Sounds when interacting with objects. These sounds can be used for things like starting a narration when an object is picked up. See README.txt for more details. Some demo objects also now use this feature.
+-Added support for generic functionality to be put in place when a player starts and ends their examination of an object.
+-Added a new demo object that plays a sound when the player examines it.
+
+v1.1:
+----
+-Added XBox controller support now built-in (see Documentation on how to modify) 
+-Added Inventory Item type
+-Added New Demo prefabs for inventory type and Activate type that requires key to unlock a door 
+-Added New art/sound assets for new demo prefabs
+
+v1.0:
+----
+-Initial release

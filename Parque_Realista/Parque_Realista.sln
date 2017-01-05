@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{466379BC-D9C1-53D8-4E8D-AA67199226E6}") = "Parque_Realista", "Assembly-CSharp.csproj", "{C883952D-D425-3B9E-F9BF-95FD90A1F8B6}"
+EndProject
+Project("{466379BC-D9C1-53D8-4E8D-AA67199226E6}") = "Parque_Realista", "Assembly-CSharp-Editor.csproj", "{B150D61A-654D-D0E5-9A32-FD287B5CAE44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C883952D-D425-3B9E-F9BF-95FD90A1F8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C883952D-D425-3B9E-F9BF-95FD90A1F8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C883952D-D425-3B9E-F9BF-95FD90A1F8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C883952D-D425-3B9E-F9BF-95FD90A1F8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B150D61A-654D-D0E5-9A32-FD287B5CAE44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150D61A-654D-D0E5-9A32-FD287B5CAE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150D61A-654D-D0E5-9A32-FD287B5CAE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150D61A-654D-D0E5-9A32-FD287B5CAE44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
